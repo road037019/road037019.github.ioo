@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Leo Messi</title>
+  
+  <subtitle>十一月zz的小世界</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://road037019.github.io/"/>
+  <updated>2018-04-20T02:38:31.065Z</updated>
+  <id>http://road037019.github.io/</id>
+  
+  <author>
+    <name>fgl</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自建博客初体验</title>
+    <link href="http://road037019.github.io/2018/04/19/my%20first%20blog/"/>
+    <id>http://road037019.github.io/2018/04/19/my first blog/</id>
+    <published>2018-04-19T09:56:06.334Z</published>
+    <updated>2018-04-20T02:38:31.065Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="博客环境搭建"><a href="#博客环境搭建" class="headerlink" title="博客环境搭建"></a>博客环境搭建</h2><p>在会使用git之后，环境搭建的部分还算比较顺利，基本没出现什么大的问题，果然还是多经历就会越来越顺利的，不经历的话就会出现各种各样的奇怪的问题，当经历的多了，就会有自主的能力去规避这些问题，博客的建立主要是参考了<a href="https://my.oschina.net/ryaneLee/blog/638440" target="_blank" rel="noopener">小白独立搭建博客</a>，对作者深表感谢！</p><h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"hello world! \n"</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="博客主题"><a href="#博客主题" class="headerlink" title="博客主题"></a>博客主题</h2><p>看到hexo的一个特别好看的主题，名字叫做Even，但是我下载下来之后效果实在不咋的，和Even作者自己做的demo相差甚远，这个简洁的主题的作者也写了一篇关于做hexo主题的<a href="http://www.ahonn.me/2016/12/15/create-a-hexo-theme-from-scratch/" target="_blank" rel="noopener">文章</a>，我实在不奢求自己去做主题，只希望能根据他提供的线索把我的主题做的漂亮一点儿。</p><h2 id="windows下的markdown编辑器"><a href="#windows下的markdown编辑器" class="headerlink" title="windows下的markdown编辑器"></a>windows下的markdown编辑器</h2><p>发现了一个markdown编辑器，特别好用，现在使用的就是这款，叫做Yu Writer，这样的话我就可以写静态博客，然后推送到远程了！</p><h2 id="打造属于自己的landscape"><a href="#打造属于自己的landscape" class="headerlink" title="打造属于自己的landscape"></a>打造属于自己的landscape</h2><ul><li>landscape的主题参见博客：<a href="https://www.jianshu.com/p/b96fd206571a" target="_blank" rel="noopener">教你定制Hexo的landscape打造自己的主题</a>这儿的代码块部分真的是 太不好看了，主要的明色调的博客背景，突然的一块黑色的代码块，简直反人类</li><li>另一款叫做hexo-theme-BlueLake的主题<a href="https://github.com/chaooo/hexo-theme-BlueLake" target="_blank" rel="noopener">hexo-theme-BlueLake</a>，这个还比较不错，最主要是作者还添加了我心心念的博客搜索功能，代码块还比较友好，博客如何配置作者也写的比较清楚，详见:<a href="http://chaoo.oschina.io/2016/12/29/BlueLake%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E7%9A%84%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE.html#comments" target="_blank" rel="noopener">BlueLake博客主题的详细配置</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;博客环境搭建&quot;&gt;&lt;a href=&quot;#博客环境搭建&quot; class=&quot;headerlink&quot; title=&quot;博客环境搭建&quot;&gt;&lt;/a&gt;博客环境搭建&lt;/h2&gt;&lt;p&gt;在会使用git之后，环境搭建的部分还算比较顺利，基本没出现什么大的问题，果然还是多经历就会越来越顺利的，不经
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://road037019.github.io/2018/04/19/hello-world/"/>
+    <id>http://road037019.github.io/2018/04/19/hello-world/</id>
+    <published>2018-04-19T07:19:35.879Z</published>
+    <updated>2018-04-19T07:19:35.880Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
