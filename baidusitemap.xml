@@ -5,32 +5,42 @@
     
   <url>
     <loc>http://road037019.github.io/2018/04/19/my%20first%20blog/</loc>
-    <lastmod>2018-04-20T13:14:25.102Z</lastmod>
+    <lastmod>2018-04-21T02:38:41.423Z</lastmod>
     <data>
         <display>
         <title>自建博客初体验</title>
         <pubTime>2018-04-19T09:56:06.334Z</pubTime>
         
+        <tag>hexo</tag>
+         
          
            
+             
+              <breadCrumb title="入门文档" url="http://road037019.github.io/categories/%E5%85%A5%E9%97%A8%E6%96%87%E6%A1%A3/"/>
+          
         </display>
     </data>
     </url>
 
     
-    
   <url>
     <loc>http://road037019.github.io/2018/04/19/hello-world/</loc>
-    <lastmod>2018-04-19T07:19:35.880Z</lastmod>
+    <lastmod>2018-04-21T02:32:33.965Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
         <pubTime>2018-04-19T07:19:35.879Z</pubTime>
         
+        <tag>hexo</tag>
+         
          
            
+             
+              <breadCrumb title="入门文档" url="http://road037019.github.io/categories/%E5%85%A5%E9%97%A8%E6%96%87%E6%A1%A3/"/>
+          
         </display>
     </data>
     </url>
 
+    
 </urlset>
